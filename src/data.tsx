@@ -1,10 +1,9 @@
 export const dataTema1 = [
     {
         id: 1,
-        title: "1",
-        image: "/todo.png",
+        title: "Dislexia",
+        image: "/dislexia.png",
         url: "/tema1"
-
     },
     {
         id: 2,
